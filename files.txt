@@ -1,0 +1,14 @@
+Meshes:
+mesh
+mesh-1
+mesh-2
+Textures:
+Bark_diffuse.png
+Bark_specularGlossiness.png
+Bark_normal.png
+Leaf_diffuse.png
+Leaf_specularGlossiness.png
+Leaf_normal.png
+Leaf_occlusion.png
+Branch_diffuse.png
+Branch_normal.png
